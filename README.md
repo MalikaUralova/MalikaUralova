@@ -3,7 +3,7 @@
 # Hi 👋, I'm Malika Akmalovna
 
 <div align="center">
-  <img src="392cf408ba0887f854a028a252428fcb.jpg" width="100%" alt="banner"/>
+  <img src="392cf408ba0887f854a028a252428fcb.jpg" width="100%" style="max-height: 300px; object-fit: cover;" alt="banner"/>
 </div>
 
 ### Frontend Developer

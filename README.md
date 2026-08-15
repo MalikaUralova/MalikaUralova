@@ -2,6 +2,10 @@
 
 # Hi 👋, I'm Malika Akmalovna
 
+<div align="center">
+  <img src="392cf408ba0887f854a028a252428fcb.jpg" width="100%" alt="banner"/>
+</div>
+
 ### Frontend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Turning+Figma+designs+into+real+websites" alt="Typing SVG" />

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Sarlavha%20qo'shish.png" width="100%" alt="banner"/>
+  <img src="banner.png" width="100%" alt="banner"/>
 </div>
 
 ---

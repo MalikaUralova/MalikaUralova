@@ -37,7 +37,7 @@ I'm a **Frontend Developer** passionate about building clean, responsive, and pi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,vscode,github" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,figma,git,vscode,github" alt="Tech stack"/>
 
 </div>
 

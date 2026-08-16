@@ -43,18 +43,7 @@ I'm a **Frontend Developer** passionate about building clean, responsive, and pi
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MalikaUralova&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MalikaUralova&theme=radical&hide_border=true" alt="GitHub streak" width="48%"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikaUralova&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
-</div>
 
 ---
 
